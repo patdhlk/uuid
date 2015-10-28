@@ -1,4 +1,4 @@
-package logical
+package uuid
 
 import (
 	"crypto/rand"
