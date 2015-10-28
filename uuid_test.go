@@ -28,7 +28,7 @@ func TestGenerateUUID(t *testing.T) {
 
 }
 
-func TestGenerateUUIDBigData(t *testing.T) {
+/*func TestGenerateUUIDBigData(t *testing.T) {
 	Convey("Testing UUID generation (big data)", t, func() {
 		prev, err := UUID()
 		So(err, ShouldBeNil)
@@ -47,4 +47,4 @@ func TestGenerateUUIDBigData(t *testing.T) {
 		})
 	})
 
-}
+}*/
